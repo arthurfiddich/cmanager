@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="conf"/>
+	<classpathentry kind="lib" path="lib/com.google.gdata-contacts-1.41.5.w1.jar"/>
+	<classpathentry kind="lib" path="lib/google-api-client-googleapis-1.4.1-beta.jar"/>
+	<classpathentry kind="lib" path="lib/google-api-services-plus-v1-rev22-1.8.0-beta.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/GOOGLE-OAUTH"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
