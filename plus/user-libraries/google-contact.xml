@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="GOOGLE-OAUTH" systemlibrary="false">
+        <archive path="/com.google.contact.extlib/google-oauth/commons-logging-1.1.1.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/google-api-client-1.12.0-beta.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/google-api-client-android-1.12.0-beta.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/google-api-client-appengine-1.12.0-beta.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/google-api-client-java6-1.12.0-beta.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/google-http-client-1.12.0-beta.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/google-http-client-android-1.12.0-beta.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/google-http-client-appengine-1.12.0-beta.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/google-http-client-gson-1.12.0-beta.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/google-http-client-jackson-1.12.0-beta.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/google-http-client-jackson2-1.12.0-beta.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/google-http-client-protobuf-1.12.0-beta.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/google-oauth-client-1.12.0-beta.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/google-oauth-client-appengine-1.12.0-beta.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/google-oauth-client-java6-1.12.0-beta.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/google-oauth-client-jetty-1.12.0-beta.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/google-oauth-client-servlet-1.12.0-beta.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/gson-2.1.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/guava-jdk5-13.0.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/httpclient-4.0.3.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/httpcore-4.0.1.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/jackson-core-2.0.5.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/jackson-core-asl-1.9.9.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/jdo2-api-2.3-eb.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/jetty-6.1.26.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/jetty-util-6.1.26.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/jsr305-1.3.9.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/protobuf-java-2.4.1.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/transaction-api-1.1.jar"/>
+        <archive path="/com.google.contact.extlib/google-oauth/xpp3-1.1.4c.jar"/>
+    </library>
+</eclipse-userlibraries>
